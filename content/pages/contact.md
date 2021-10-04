@@ -4,11 +4,11 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: >-
-      Let’s build something great together.<br>
+    content: >+
+      Let’s build something great together.
 
       Complete our contact form or send us an email at
-      [email@example.com](mailto:email@example.com).
+      [info@switcomedia.com](mailto:email@example.com).
 
 
       ***
@@ -17,26 +17,17 @@ sections:
       ## Our Offices
 
 
-      ### San Francisco
-
-      1234 Some St.<br>
-
-      San Francisco, CA 12345<br>
-
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      ### Kampala
 
 
-      ### New York
+      Balintuma Road.
 
-      1234 Some St.<br>
+      Mengo
 
-      New York, NY 12345<br>
+      1-234-556-7890
 
-      1-234-556-7890<br>
+      [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
 
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
