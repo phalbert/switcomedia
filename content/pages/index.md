@@ -23,7 +23,8 @@ sections:
       *   Livestreaming for your meetings.
 
 
-      *   Video production for YouTube and digital marketing
+      *   Video production for Personal Branding (e.g YouTube) and corporate
+      branding (e.g Product Videos)
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
