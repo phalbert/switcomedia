@@ -23,13 +23,10 @@ sections:
       Balintuma Road.
 
 
-
       Mengo
 
 
-
       1-234-556-7890
-
 
 
       [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
