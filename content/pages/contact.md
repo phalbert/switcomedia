@@ -49,7 +49,7 @@ sections:
         default_value: Please select
         options:
           - Photoshoot
-          - Weddings
+          - Weddings & Parties
           - Digital
       - input_type: textarea
         name: message
