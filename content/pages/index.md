@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: 'Photos, Videos and Digital Media.'
+    title: Beautiful Digital Media.
     content: >
       We are a digital media, brand, and design practice. We work closely with
       you to deliver inspiring work. [Let's talk](/contact/).
