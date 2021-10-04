@@ -22,11 +22,11 @@ sections:
 
       Balintuma Road.
 
-      \<br>Mengo
+      \<br />Mengo
 
-      \<br>1-234-556-7890
+      \<br />1-234-556-7890
 
-      \<br>[Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      \<br />[Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
