@@ -50,7 +50,7 @@ sections:
         options:
           - Photoshoot
           - Weddings & Parties
-          - Digital Ma
+          - 'Digital Media '
       - input_type: textarea
         name: message
         label: Message
