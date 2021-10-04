@@ -5,10 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: "Photography, Digital Marketing,\_ Weddings, e.t.c."
-    content: >+
+    content: >
       We are a digital media, brand, and design practice. We work closely with
-      you to deliver inspiring work. We capture the beautiful memories of your
-      occasion; we enable your organization to grow. [Let's talk](/contact/).
+      you to deliver inspiring work. [Let's talk](/contact/).
 
 
       *   We capture the beautiful memories of your wedding, birthday party,
@@ -18,14 +17,13 @@ sections:
       *   We enable your organization to grow with digital marketing
 
 
-      *   Photoshots
+      *   Photoshoots
 
 
-      *   Live streaming for your meetings
+      *   Livestreaming for your meetings.
 
 
-      *   Video production
-
+      *   Video production for YouTube and digital marketing
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
