@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: "Digital Marketing,\_ Weddings, Photography."
+    title: 'Photos, Videos and Digital Marketing.'
     content: >
       We are a digital media, brand, and design practice. We work closely with
       you to deliver inspiring work. [Let's talk](/contact/).
