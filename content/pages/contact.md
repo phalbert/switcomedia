@@ -48,7 +48,7 @@ sections:
         label: What services are you looking for?
         default_value: Please select
         options:
-          - Branding
+          - Ph
           - Design
           - Digital
       - input_type: textarea
